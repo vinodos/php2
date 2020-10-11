@@ -3,8 +3,8 @@
 <body>
 
 <?php
-echo "My new  PHP web site   by vinod VERSION66666666";
-?>
+ echo "My first PHP script!";
+ ?>
 
 </body>
-</html
+</html>
